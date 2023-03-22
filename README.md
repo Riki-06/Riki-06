@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riki-06
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on unity 3d GameDevelopement in a few months
 - 📫 How to reach me EMAIL: sanjitmahesh06@gmail.com
 
 <!---
